@@ -1,0 +1,25 @@
+
+body{
+    margin: 0 !important;
+    padding: 0 !important;
+    
+}
+
+.wrapper{
+    background: url("wall.jpg") no-repeat center center;
+    background-size: cover;       
+    max-width: 100%;
+    height: auto;
+    padding-bottom: 49.128%;
+    position: relative;   
+}
+
+
+
+h1{
+    font-size: 5.9vw;
+    color: white;
+    position: absolute;
+    top: 65%;
+    left: 29%;
+}
