@@ -13,8 +13,7 @@ body{
     position: relative;   
 }
 
-.wrapper{
-    color: white;
+.wrapper{    
     position: absolute;
     top: 65%;
     left: 29%;
@@ -22,4 +21,5 @@ body{
 
 .wrapper > h1{
     font-size: 5.9vw;
+    color: white;
 }
